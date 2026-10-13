@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote AI Jobs — 2026
 
-<sub><small>Last updated: Oct 12, 2026 at 21:16 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2026 at 19:14 UTC</small></sub>
 
 Daily remote AI jobs curated by Jobs in AI.
 Updated daily by [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs).
@@ -12,6 +12,8 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-global-events-lead-203f8d4a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Global Events Lead](https://jobsinai.com/jobs/elevenlabs-global-events-lead-203f8d4a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Oct 12 |
+| **[Runway](https://jobsinai.com/jobs/runway-prototype-researcher-8f9de60e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Prototype Researcher](https://jobsinai.com/jobs/runway-prototype-researcher-8f9de60e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Oct 12 |
 | **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-partner-manager-public-sector-partnerships-94650a0a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Partner Manager - Public Sector Partnerships](https://jobsinai.com/jobs/elevenlabs-partner-manager-public-sector-partnerships-94650a0a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Oct 12 |
 | **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-product-marketing-elevenapi-b014d11d?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Product Marketing - ElevenAPI](https://jobsinai.com/jobs/elevenlabs-product-marketing-elevenapi-b014d11d?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Oct 12 |
 | **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-growth-marketer-reception-ai-cce9b922?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Growth Marketer- Reception.ai](https://jobsinai.com/jobs/elevenlabs-growth-marketer-reception-ai-cce9b922?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Oct 12 |
@@ -42,12 +44,12 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 
 ---
 
-**Current Stats:** 27 jobs | 100% remote | 6 companies | 6 salary ranges listed
+**Current Stats:** 29 jobs | 100% remote | 6 companies | 7 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-12 archive](archive/2026-10-12.md)
+- [2026-10-13 archive](archive/2026-10-13.md)
 
 ## About This Repository
 
