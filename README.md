@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote AI Jobs — 2026
 
-<sub><small>Last updated: Oct 20, 2026 at 17:00 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2026 at 17:06 UTC</small></sub>
 
 Daily remote AI jobs curated by Jobs in AI.
 Updated daily by [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs).
@@ -12,6 +12,10 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Recursion](https://jobsinai.com/jobs/recursion-principal-ai-researcher-feb40fe2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Principal AI Researcher](https://jobsinai.com/jobs/recursion-principal-ai-researcher-feb40fe2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote Opportunity - United States | Remote | Full Time | Oct 21 |
+| **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-b2b-marketing-singapore-and-ne-asia-7efd8a90?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[B2B Marketing - Singapore & NE Asia](https://jobsinai.com/jobs/elevenlabs-b2b-marketing-singapore-and-ne-asia-7efd8a90?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Oct 21 |
+| **[Runway](https://jobsinai.com/jobs/runway-member-of-strategic-staff-model-ecosystem-93d6c5fc?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Member of Strategic Staff, Model Ecosystem](https://jobsinai.com/jobs/runway-member-of-strategic-staff-model-ecosystem-93d6c5fc?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Oct 21 |
+| **[Anthropic](https://jobsinai.com/jobs/anthropic-gtm-programs-manager-gtm-initiatives-fcf4de73?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[GTM Programs Manager, GTM Initiatives](https://jobsinai.com/jobs/anthropic-gtm-programs-manager-gtm-initiatives-fcf4de73?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| New York City, NY | Remote | Full Time | Oct 20 |
 | **[Runway](https://jobsinai.com/jobs/runway-member-of-applied-ai-team-293da4fa?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Member of Applied AI Team](https://jobsinai.com/jobs/runway-member-of-applied-ai-team-293da4fa?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Oct 19 |
 | **[Anthropic](https://jobsinai.com/jobs/anthropic-it-systems-engineer-client-platform-engineer-chromeos-b25eed80?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[IT Systems Engineer, Client Platform Engineer, ChromeOS](https://jobsinai.com/jobs/anthropic-it-systems-engineer-client-platform-engineer-chromeos-b25eed80?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Boston, MA; Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY; Washington, DC | Remote | Full Time | Oct 19 |
 | **[Anthropic](https://jobsinai.com/jobs/anthropic-software-engineer-memory-and-search-e89e36b9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Software Engineer, Memory & Search](https://jobsinai.com/jobs/anthropic-software-engineer-memory-and-search-e89e36b9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | New York City, NY; New York City, NY \| Seattle, WA; Remote-Friendly, United States; San Francisco, CA \| New York City, NY \| Seattle, WA | Remote | Full Time | Oct 19 |
@@ -58,19 +62,15 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Fireworks AI](https://jobsinai.com/jobs/fireworks-ai-privacy-program-engineer-09e0a258?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Privacy Program Engineer](https://jobsinai.com/jobs/fireworks-ai-privacy-program-engineer-09e0a258?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | United States, Remote | Remote | Full Time | Oct 8 |
 | **[Recursion](https://jobsinai.com/jobs/recursion-executive-director-chemical-biology-drug-design-eabe1352?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Executive Director, Chemical Biology/Drug Design](https://jobsinai.com/jobs/recursion-executive-director-chemical-biology-drug-design-eabe1352?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote Opportunity - United States; Salt Lake City, Utah | Remote | Full Time | Oct 8 |
 | **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-direct-tax-lead-00ec198a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Direct Tax Lead](https://jobsinai.com/jobs/elevenlabs-direct-tax-lead-00ec198a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Oct 7 |
-| **[Recursion](https://jobsinai.com/jobs/recursion-staff-engineer-identity-and-access-management-iam-5d6f3b32?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Staff Engineer, Identity & Access Management (IAM)](https://jobsinai.com/jobs/recursion-staff-engineer-identity-and-access-management-iam-5d6f3b32?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote Opportunity - United States; Salt Lake City, Utah | Remote | Full Time | Oct 7 |
-| **[Anthropic](https://jobsinai.com/jobs/anthropic-it-systems-engineer-client-platform-engineer-macos-0c1b8425?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[IT Systems Engineer, Client Platform Engineer, macOS](https://jobsinai.com/jobs/anthropic-it-systems-engineer-client-platform-engineer-macos-0c1b8425?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Boston, MA; Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY; Washington, DC | Remote | Full Time | Oct 7 |
-| **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-applied-ai-engineer-c441fb5e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Applied AI Engineer](https://jobsinai.com/jobs/elevenlabs-applied-ai-engineer-c441fb5e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Oct 7 |
-| **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-full-stack-engineer-creative-agents-63385c53?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Full-stack Engineer - Creative Agents](https://jobsinai.com/jobs/elevenlabs-full-stack-engineer-creative-agents-63385c53?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Oct 7 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 6 companies | 9 salary ranges listed
+**Current Stats:** 50 jobs | 100% remote | 6 companies | 10 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-20 archive](archive/2026-10-20.md)
+- [2026-10-22 archive](archive/2026-10-22.md)
 
 ## About This Repository
 
