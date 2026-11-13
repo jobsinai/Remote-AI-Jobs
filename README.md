@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote AI Jobs — 2026
 
-<sub><small>Last updated: Nov 12, 2026 at 19:53 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
 
 Daily remote AI jobs curated by Jobs in AI.
 Updated daily by [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs).
@@ -12,7 +12,8 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Anthropic](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Engineer / Scientist, Pre-training](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Full Time | Nov 12 |
+| **[Anthropic](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Engineer / Scientist, Pre-training](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Full Time | Nov 13 |
+| **[Anysphere](https://jobsinai.com/jobs/anysphere-strategic-account-executive-enterprise-latam-54210437?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Strategic Account Executive, Enterprise - LATAM](https://jobsinai.com/jobs/anysphere-strategic-account-executive-enterprise-latam-54210437?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 12 |
 | **[Fireworks AI](https://jobsinai.com/jobs/fireworks-ai-senior-manager-customer-marketing-3db191e2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Senior Manager, Customer Marketing](https://jobsinai.com/jobs/fireworks-ai-senior-manager-customer-marketing-3db191e2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | United States, Remote | Remote | Full Time | Nov 10 |
 | **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-gtm-enablement-product-d5811f0d?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[GTM Enablement - Product](https://jobsinai.com/jobs/elevenlabs-gtm-enablement-product-d5811f0d?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 10 |
 | **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-gtm-enablement-partner-program-6f4db0bb?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[GTM Enablement - Partner Program](https://jobsinai.com/jobs/elevenlabs-gtm-enablement-partner-program-6f4db0bb?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 10 |
@@ -41,12 +42,12 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 
 ---
 
-**Current Stats:** 26 jobs | 100% remote | 5 companies | 17 salary ranges listed
+**Current Stats:** 27 jobs | 100% remote | 5 companies | 17 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-12 archive](archive/2026-11-12.md)
+- [2026-11-13 archive](archive/2026-11-13.md)
 
 ## About This Repository
 
