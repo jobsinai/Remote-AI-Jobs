@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote AI Jobs — 2026
 
-<sub><small>Last updated: Nov 15, 2026 at 18:47 UTC</small></sub>
+<sub><small>Last updated: Nov 16, 2026 at 21:58 UTC</small></sub>
 
 Daily remote AI jobs curated by Jobs in AI.
 Updated daily by [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs).
@@ -12,7 +12,7 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Anthropic](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Engineer / Scientist, Pre-training](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Full Time | Nov 15 |
+| **[Anthropic](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Engineer / Scientist, Pre-training](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Full Time | Nov 16 |
 | **[Runway](https://jobsinai.com/jobs/runway-senior-staff-technical-recruiter-c9d7e9ba?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Senior/Staff Technical Recruiter](https://jobsinai.com/jobs/runway-senior-staff-technical-recruiter-c9d7e9ba?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 14 |
 | **[Fireworks AI](https://jobsinai.com/jobs/fireworks-ai-enterprise-account-executive-healthcare-and-life-sciences-us-east-5628c0d4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Enterprise Account Executive - Healthcare & Life Sciences (US -East)](https://jobsinai.com/jobs/fireworks-ai-enterprise-account-executive-healthcare-and-life-sciences-us-east-5628c0d4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | United States, Remote | Remote | Full Time | Nov 13 |
 | **[Fireworks AI](https://jobsinai.com/jobs/fireworks-ai-enterprise-account-executive-healthcare-and-life-sciences-us-west-6778c878?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Enterprise Account Executive - Healthcare & Life Sciences (US - West)](https://jobsinai.com/jobs/fireworks-ai-enterprise-account-executive-healthcare-and-life-sciences-us-west-6778c878?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | United States, Remote | Remote | Full Time | Nov 13 |
@@ -54,7 +54,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-15 archive](archive/2026-11-15.md)
+- [2026-11-16 archive](archive/2026-11-16.md)
 
 ## About This Repository
 
