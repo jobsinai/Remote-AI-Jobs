@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote AI Jobs — 2026
 
-<sub><small>Last updated: Nov 22, 2026 at 19:32 UTC</small></sub>
+<sub><small>Last updated: Nov 23, 2026 at 23:49 UTC</small></sub>
 
 Daily remote AI jobs curated by Jobs in AI.
 Updated daily by [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs).
@@ -12,7 +12,7 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Anthropic](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Engineer / Scientist, Pre-training](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Full Time | Nov 22 |
+| **[Anthropic](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Engineer / Scientist, Pre-training](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Full Time | Nov 23 |
 | **[Anthropic](https://jobsinai.com/jobs/anthropic-research-operations-external-artifacts-99d9399e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Operations, External Artifacts](https://jobsinai.com/jobs/anthropic-research-operations-external-artifacts-99d9399e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly, United States | Remote | Full Time | Nov 21 |
 | **[OpenAI](https://jobsinai.com/jobs/openai-lauch-producer-business-marketing-86e1fbaf?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Lauch Producer, Business Marketing](https://jobsinai.com/jobs/openai-lauch-producer-business-marketing-86e1fbaf?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | US - Remote | Remote | Full Time | Nov 20 |
 | **[Anthropic](https://jobsinai.com/jobs/anthropic-corporate-network-engineer-3d8ee273?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Corporate Network Engineer](https://jobsinai.com/jobs/anthropic-corporate-network-engineer-3d8ee273?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel Required) \| San Francisco, CA | Remote | Full Time | Nov 20 |
@@ -59,7 +59,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-22 archive](archive/2026-11-22.md)
+- [2026-11-23 archive](archive/2026-11-23.md)
 
 ## About This Repository
 
