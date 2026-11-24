@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote AI Jobs — 2026
 
-<sub><small>Last updated: Nov 23, 2026 at 23:49 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2026 at 22:21 UTC</small></sub>
 
 Daily remote AI jobs curated by Jobs in AI.
 Updated daily by [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs).
@@ -12,7 +12,9 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Anthropic](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Engineer / Scientist, Pre-training](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Full Time | Nov 23 |
+| **[Anthropic](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Engineer / Scientist, Pre-training](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Full Time | Nov 24 |
+| **[OpenAI](https://jobsinai.com/jobs/openai-vc-partnerships-lead-e3ef9aa9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[VC Partnerships Lead](https://jobsinai.com/jobs/openai-vc-partnerships-lead-e3ef9aa9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Bangalore - Remote | Remote | Full Time | Nov 24 |
+| **[OpenAI](https://jobsinai.com/jobs/openai-ecosystem-startups-account-director-40f4f3f7?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Ecosystem Startups, Account Director](https://jobsinai.com/jobs/openai-ecosystem-startups-account-director-40f4f3f7?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Bangalore - Remote | Remote | Full Time | Nov 24 |
 | **[Anthropic](https://jobsinai.com/jobs/anthropic-research-operations-external-artifacts-99d9399e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Operations, External Artifacts](https://jobsinai.com/jobs/anthropic-research-operations-external-artifacts-99d9399e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly, United States | Remote | Full Time | Nov 21 |
 | **[OpenAI](https://jobsinai.com/jobs/openai-lauch-producer-business-marketing-86e1fbaf?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Lauch Producer, Business Marketing](https://jobsinai.com/jobs/openai-lauch-producer-business-marketing-86e1fbaf?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | US - Remote | Remote | Full Time | Nov 20 |
 | **[Anthropic](https://jobsinai.com/jobs/anthropic-corporate-network-engineer-3d8ee273?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Corporate Network Engineer](https://jobsinai.com/jobs/anthropic-corporate-network-engineer-3d8ee273?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel Required) \| San Francisco, CA | Remote | Full Time | Nov 20 |
@@ -45,21 +47,17 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Anysphere](https://jobsinai.com/jobs/anysphere-regional-director-strategic-enterprise-latam-ae2ca3d1?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Regional Director, Strategic Enterprise - LATAM](https://jobsinai.com/jobs/anysphere-regional-director-strategic-enterprise-latam-ae2ca3d1?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 13 |
 | **[Anysphere](https://jobsinai.com/jobs/anysphere-strategic-account-executive-enterprise-latam-54210437?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Strategic Account Executive, Enterprise - LATAM](https://jobsinai.com/jobs/anysphere-strategic-account-executive-enterprise-latam-54210437?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 12 |
 | **[Fireworks AI](https://jobsinai.com/jobs/fireworks-ai-senior-manager-customer-marketing-3db191e2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Senior Manager, Customer Marketing](https://jobsinai.com/jobs/fireworks-ai-senior-manager-customer-marketing-3db191e2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | United States, Remote | Remote | Full Time | Nov 10 |
-| **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-gtm-enablement-product-d5811f0d?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[GTM Enablement - Product](https://jobsinai.com/jobs/elevenlabs-gtm-enablement-product-d5811f0d?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 10 |
-| **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-gtm-enablement-partner-program-6f4db0bb?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[GTM Enablement - Partner Program](https://jobsinai.com/jobs/elevenlabs-gtm-enablement-partner-program-6f4db0bb?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 10 |
 | **[OpenAI](https://jobsinai.com/jobs/openai-incident-commander-detection-and-response-us-c43645b6?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Incident Commander, Detection & Response - US](https://jobsinai.com/jobs/openai-incident-commander-detection-and-response-us-c43645b6?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | US - Remote | Remote | Full Time | Nov 10 |
 | **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-gtm-enablement-sales-execution-and-north-america-lead-957a2b82?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[GTM Enablement - Sales Execution & North America Lead](https://jobsinai.com/jobs/elevenlabs-gtm-enablement-sales-execution-and-north-america-lead-957a2b82?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 10 |
-| **[Anthropic](https://jobsinai.com/jobs/anthropic-principal-engineer-privacy-be759ef8?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Principal Engineer, Privacy](https://jobsinai.com/jobs/anthropic-principal-engineer-privacy-be759ef8?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Full Time | Nov 10 |
-| **[Anysphere](https://jobsinai.com/jobs/anysphere-strategic-account-executive-life-sciences-703981c0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Strategic Account Executive, Life Sciences](https://jobsinai.com/jobs/anysphere-strategic-account-executive-life-sciences-703981c0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 9 |
 
 ---
 
-**Current Stats:** 39 jobs | 100% remote | 8 companies | 18 salary ranges listed
+**Current Stats:** 37 jobs | 100% remote | 8 companies | 17 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-23 archive](archive/2026-11-23.md)
+- [2026-11-24 archive](archive/2026-11-24.md)
 
 ## About This Repository
 
