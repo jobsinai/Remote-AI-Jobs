@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote AI Jobs — 2026
 
-<sub><small>Last updated: Nov 25, 2026 at 21:38 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2026 at 21:27 UTC</small></sub>
 
 Daily remote AI jobs curated by Jobs in AI.
 Updated daily by [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs).
@@ -12,7 +12,8 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Anthropic](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Engineer / Scientist, Pre-training](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Full Time | Nov 25 |
+| **[Anthropic](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Engineer / Scientist, Pre-training](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Full Time | Nov 26 |
+| **[Runway](https://jobsinai.com/jobs/runway-research-motion-designer-fc4a633a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research, Motion Designer](https://jobsinai.com/jobs/runway-research-motion-designer-fc4a633a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 25 |
 | **[OpenAI](https://jobsinai.com/jobs/openai-head-of-applied-ai-architects-commercial-sales-midmarket-smb-1cc5ef17?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Head of Applied AI Architects – Commercial Sales (Midmarket, SMB)](https://jobsinai.com/jobs/openai-head-of-applied-ai-architects-commercial-sales-midmarket-smb-1cc5ef17?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | US - Remote | Remote | Full Time | Nov 25 |
 | **[Runway](https://jobsinai.com/jobs/runway-senior-staff-technical-recruiter-london-58e7aa5e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Senior/Staff Technical Recruiter, London](https://jobsinai.com/jobs/runway-senior-staff-technical-recruiter-london-58e7aa5e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 24 |
 | **[Runway](https://jobsinai.com/jobs/runway-sr-staff-business-gtm-recruiter-london-6ddf2a5c?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Sr/Staff Business/GTM Recruiter, London](https://jobsinai.com/jobs/runway-sr-staff-business-gtm-recruiter-london-6ddf2a5c?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 24 |
@@ -52,12 +53,12 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 
 ---
 
-**Current Stats:** 37 jobs | 100% remote | 8 companies | 18 salary ranges listed
+**Current Stats:** 38 jobs | 100% remote | 8 companies | 19 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-25 archive](archive/2026-11-25.md)
+- [2026-11-26 archive](archive/2026-11-26.md)
 
 ## About This Repository
 
