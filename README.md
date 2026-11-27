@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote AI Jobs — 2026
 
-<sub><small>Last updated: Nov 26, 2026 at 21:27 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2026 at 21:10 UTC</small></sub>
 
 Daily remote AI jobs curated by Jobs in AI.
 Updated daily by [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs).
@@ -12,7 +12,7 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Anthropic](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Engineer / Scientist, Pre-training](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Full Time | Nov 26 |
+| **[Anthropic](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research Engineer / Scientist, Pre-training](https://jobsinai.com/jobs/anthropic-research-engineer-scientist-pre-training-46659906?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Full Time | Nov 27 |
 | **[Runway](https://jobsinai.com/jobs/runway-research-motion-designer-fc4a633a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Research, Motion Designer](https://jobsinai.com/jobs/runway-research-motion-designer-fc4a633a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 25 |
 | **[OpenAI](https://jobsinai.com/jobs/openai-head-of-applied-ai-architects-commercial-sales-midmarket-smb-1cc5ef17?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Head of Applied AI Architects – Commercial Sales (Midmarket, SMB)](https://jobsinai.com/jobs/openai-head-of-applied-ai-architects-commercial-sales-midmarket-smb-1cc5ef17?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | US - Remote | Remote | Full Time | Nov 25 |
 | **[Runway](https://jobsinai.com/jobs/runway-senior-staff-technical-recruiter-london-58e7aa5e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Senior/Staff Technical Recruiter, London](https://jobsinai.com/jobs/runway-senior-staff-technical-recruiter-london-58e7aa5e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 24 |
@@ -27,7 +27,6 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Hugging Face](https://jobsinai.com/jobs/hugging-face-senior-software-data-engineer-bot-detection-us-remote-91281b35?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Senior Software/Data Engineer, Bot Detection - US Remote](https://jobsinai.com/jobs/hugging-face-senior-software-data-engineer-bot-detection-us-remote-91281b35?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | New York, United States (Remote) | Remote | Full Time | Nov 20 |
 | **[OpenAI](https://jobsinai.com/jobs/openai-community-engagement-lead-southeast-ba494340?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Community Engagement Lead, Southeast](https://jobsinai.com/jobs/openai-community-engagement-lead-southeast-ba494340?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | US - Remote | Remote | Full Time | Nov 19 |
 | **[OpenAI](https://jobsinai.com/jobs/openai-community-engagement-lead-texas-2bf94b5a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Community Engagement Lead, Texas](https://jobsinai.com/jobs/openai-community-engagement-lead-texas-2bf94b5a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | US - Remote | Remote | Full Time | Nov 19 |
-| **[OpenAI](https://jobsinai.com/jobs/openai-designer-openai-com-3c738fa0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Designer, OpenAI.com](https://jobsinai.com/jobs/openai-designer-openai-com-3c738fa0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | US - Remote | Remote | Full Time | Nov 19 |
 | **[Anthropic](https://jobsinai.com/jobs/anthropic-community-engagement-manager-data-centres-canada-4389dff2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Community Engagement Manager, Data Centres (Canada)](https://jobsinai.com/jobs/anthropic-community-engagement-manager-data-centres-canada-4389dff2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Alberta, CAN \| Remote-Friendly, Canada | Remote | Full Time | Nov 19 |
 | **[OpenAI](https://jobsinai.com/jobs/openai-geotechnical-engineer-data-center-development-4a324bb9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Geotechnical Engineer, Data Center Development](https://jobsinai.com/jobs/openai-geotechnical-engineer-data-center-development-4a324bb9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | US - Remote | Remote | Full Time | Nov 18 |
 | **[Runway](https://jobsinai.com/jobs/runway-ai-safety-and-responsibility-policy-manager-64910b21?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[AI Safety & Responsibility Policy Manager](https://jobsinai.com/jobs/runway-ai-safety-and-responsibility-policy-manager-64910b21?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 18 |
@@ -36,7 +35,6 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 | **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-partner-manager-public-sector-partnerships-f20198f8?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Partner Manager - Public Sector Partnerships](https://jobsinai.com/jobs/elevenlabs-partner-manager-public-sector-partnerships-f20198f8?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 18 |
 | **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-hyperscaler-and-systems-integrator-partner-manager-north-america-1810bafc?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Hyperscaler & Systems Integrator Partner Manager (North America)](https://jobsinai.com/jobs/elevenlabs-hyperscaler-and-systems-integrator-partner-manager-north-america-1810bafc?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 17 |
 | **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-head-of-strategic-pursuits-a46b4dc9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Head of Strategic Pursuits](https://jobsinai.com/jobs/elevenlabs-head-of-strategic-pursuits-a46b4dc9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 17 |
-| **[OpenAI](https://jobsinai.com/jobs/openai-cyber-ai-partner-director-americas-de8d8d2d?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Cyber AI Partner Director, Americas](https://jobsinai.com/jobs/openai-cyber-ai-partner-director-americas-de8d8d2d?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | US - Remote | Remote | Full Time | Nov 17 |
 | **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-account-executive-enterprise-healthcare-27af2025?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Account Executive - Enterprise - Healthcare](https://jobsinai.com/jobs/elevenlabs-account-executive-enterprise-healthcare-27af2025?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 17 |
 | **[ElevenLabs](https://jobsinai.com/jobs/elevenlabs-full-stack-engineer-elevenmusic-45aa26e3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Full-Stack Engineer - ElevenMusic](https://jobsinai.com/jobs/elevenlabs-full-stack-engineer-elevenmusic-45aa26e3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | Remote | Remote | Full Time | Nov 17 |
 | **[Fireworks AI](https://jobsinai.com/jobs/fireworks-ai-enterprise-account-executive-mountain-us-564ec35b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | **[Enterprise Account Executive - Mountain (US)](https://jobsinai.com/jobs/fireworks-ai-enterprise-account-executive-mountain-us-564ec35b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-ai-jobs)** | United States, Remote | Remote | Full Time | Nov 16 |
@@ -53,12 +51,12 @@ Visit [Jobs in AI](https://jobsinai.com?utm_source=github&utm_medium=repo&utm_ca
 
 ---
 
-**Current Stats:** 38 jobs | 100% remote | 8 companies | 19 salary ranges listed
+**Current Stats:** 36 jobs | 100% remote | 8 companies | 17 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-26 archive](archive/2026-11-26.md)
+- [2026-11-27 archive](archive/2026-11-27.md)
 
 ## About This Repository
 
